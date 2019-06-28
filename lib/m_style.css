@@ -1,0 +1,11 @@
+BODY, TABLE, TR, TD, td, SELECT,input, DIV, form, TEXTAREA,center,option, pre, blockquote
+{font-size:12pt; font-family:돋움,굴림,sans-serif,Arial; color:#575656; line-height:200%}
+
+A:link {font-family:돋움,굴림,sans-serif,Arial; font-size:12pt; color:#056F98;text-decoration:none;}
+/*링크처음상태*/
+A:visited {font-family:돋움,굴림,sans-serif,Arial; font-size:12pt; color:#056F98;text-decoration:none;}
+/*방문한 적이 있는 상태*/
+A:active {font-family:돋움,굴림,sans-serif,Arial; font-size:12pt; color:#056F98;text-decoration:none;}
+/*클릭되는 순간*/
+A:hover {font-family:돋움,굴림,sans-serif,Arial; font-size:12pt; color:#056F98;text-decoration:none;}
+/*마우스 올리면*/
